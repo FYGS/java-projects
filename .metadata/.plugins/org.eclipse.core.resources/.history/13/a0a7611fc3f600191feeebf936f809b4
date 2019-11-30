@@ -1,0 +1,12 @@
+package cours.classes;
+
+public class Capitale extends Ville {
+	private String monument;
+	
+	public Capitale() {
+		// constructeur classe mère
+		super();
+		this.monument = "Aucun";
+	}
+
+}

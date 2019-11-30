@@ -1,0 +1,17 @@
+package cours.classes;
+
+public class ClassMain {
+
+	public static void main(String[] args) {
+		Ville v = new Ville();
+		Ville v1 = new Ville("Marseille", 1236, "France");       
+		Ville v2 = new Ville("Rio", 321654, "Brésil");
+		        
+		System.out.println("\n\n"+v1.toString());
+		System.out.println(v.toString());
+		System.out.println(v2.toString()+"\n\n");
+		System.out.println(v1.comparer(v2));
+
+	}
+
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="cours.classes.Ville"/>
+<fullyQualifiedTypeName name="cours.classes.Capitale"/>
+<fullyQualifiedTypeName name="java.util.Objects"/>
+<fullyQualifiedTypeName name="cours.classes.Animal"/>
+<fullyQualifiedTypeName name="cours.classes.Canin"/>
+<fullyQualifiedTypeName name="cours.classes.Felin"/>
+<fullyQualifiedTypeName name="cours.interfaces.Rintintin"/>
+</qualifiedTypeNameHistroy>

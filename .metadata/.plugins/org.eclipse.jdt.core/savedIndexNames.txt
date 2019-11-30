@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\Fernand SOUALO\Documents\DOSSIERS_PARTAGES\Projets\java\.metadata\.plugins\org.eclipse.jdt.core
+435961445.index
+2163568607.index

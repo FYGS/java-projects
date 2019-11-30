@@ -1,0 +1,12 @@
+/**
+ * 
+ */
+package cours.interfaces;
+
+/**
+ * @author Fernand SOUALO
+ *
+ */
+public interface Rintintin {
+
+}

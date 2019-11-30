@@ -1,0 +1,24 @@
+/**
+ * 
+ */
+package cours.interfaces;
+
+/**
+ * @author Fernand SOUALO
+ *
+ *Une interface est l'équivalent d'une classe abstraite 
+ *MAIS sans le mot-clé abstract
+ *
+ *Une classe donnée peut en implémenter autant qu'elle le souhaite
+ *via le mot-clé 'implements'
+ *
+ *La classe alors DOIT redéfinir toutes ses méthodes !
+ *
+ */
+public interface Rintintin {
+
+	public void faireCalin();
+	public void faireLechouille();
+	public void faireLeBeau();
+	
+}
