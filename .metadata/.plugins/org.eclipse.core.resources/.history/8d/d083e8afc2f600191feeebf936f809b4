@@ -1,8 +1,0 @@
-package cours.classes;
-
-public class Capitale extends Ville {
-	public Capitale() {
-		this.setNomVille("toto");
-	}
-
-}
