@@ -92,7 +92,7 @@ class Neurone {
 	public String toString() {
 		String str    = "Le neurone en position " + getPosition();
 		       str   += " avec attenuation " + getAttenuation();
-		       str   += areConnexionsEmpty() ? "  sans connexions" : " en connexion avec";
+		       str   += areConnexionsEmpty() ? " sans connexion" : " en connexion avec";
 		       str   += "\n";
 		for (int i = 0; i < getNbConnexions(); i++) {
 			str += "  - un neurone en position " + getConnexion(i).getPosition() + "\n";

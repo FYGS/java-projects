@@ -1,3 +1,13 @@
+/**
+ * 
+ */
+package fr.mooc.epfl.tests;
+
+/**
+ * @author Fernand SOUALO
+ *
+ */
+
 import java.util.ArrayList;
 import java.util.Random;
 
@@ -119,17 +129,19 @@ class Scrutin {
 	}
 	
 	private void populate(ArrayList<Postulant> postulants, boolean b) {
-		for (int i = 0; i < postulants.size(); i++) {
-			Postulant copie = null;
-			Postulant got = postulants.get(i);
-			if (got != null) {
-				copie = new Postulant(got);
-			}
-			if (copie != null) {
-				if (b) {
-					copie.init();
+		if (postulants != null) {
+			for (int i = 0; i < postulants.size(); i++) {
+				Postulant copie = null;
+				Postulant got = postulants.get(i);
+				if (got != null) {
+					copie = new Postulant(got);
 				}
-				this.postulants.add(copie);
+				if (copie != null) {
+					if (b) {
+						copie.init();
+					}
+					this.postulants.add(copie);
+				}
 			}
 		}
 	}
@@ -376,3 +388,4 @@ class Votation {
 
     }
 }
+

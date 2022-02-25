@@ -32,11 +32,20 @@
 <fullyQualifiedTypeName name="fr.mooc.epfl.semaine6.WrongDurationException"/>
 <fullyQualifiedTypeName name="fr.mooc.epfl.semaine6.NameTooLongException"/>
 <fullyQualifiedTypeName name="javax.sound.sampled.ReverbType"/>
-<fullyQualifiedTypeName name="java.lang.String"/>
 <fullyQualifiedTypeName name="java.lang.System"/>
 <fullyQualifiedTypeName name="java.util.Scanner"/>
 <fullyQualifiedTypeName name="java.util.InputMismatchException"/>
-<fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="java.awt.List"/>
 <fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="fr.mooc.epfl.semaine6.Postulant"/>
+<fullyQualifiedTypeName name="fr.mooc.epfl.semaine6.CheckBulletin"/>
+<fullyQualifiedTypeName name="fr.mooc.epfl.semaine6.Vote"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="java.util.Random"/>
+<fullyQualifiedTypeName name="fr.mooc.epfl.semaine6.BulletinPapier"/>
+<fullyQualifiedTypeName name="fr.mooc.epfl.semaine6.BulletinElectronique"/>
+<fullyQualifiedTypeName name="fr.mooc.epfl.semaine6.BulletinCourrier"/>
+<fullyQualifiedTypeName name="fr.mooc.epfl.tests.Employe"/>
+<fullyQualifiedTypeName name="fr.mooc.epfl.tests.Postulant"/>
 </qualifiedTypeNameHistroy>

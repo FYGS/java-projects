@@ -1,3 +1,13 @@
+/**
+ * 
+ */
+package fr.mooc.epfl.tests;
+
+/**
+ * @author Fernand SOUALO
+ *
+ */
+
 /*******************************************
  * Completez le programme a partir d'ici.
  *******************************************/
